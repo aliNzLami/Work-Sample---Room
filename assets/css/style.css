@@ -11366,6 +11366,12 @@ header p {
   width: max-content;
 }
 
+@media (max-width: 768px) {
+    .favorite-project-bg .generalImgHolder {
+    width: 100%;
+  }
+}
+
 .OurDesigners .imgPart {
   height: 500px;
   position: relative;
