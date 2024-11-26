@@ -11398,4 +11398,8 @@ footer .generalImgHolder_DARK {
   background-color: #0000008a;
 }
 
+html {
+      overflow-x: hidden;
+}
+
 /*# sourceMappingURL=style.css.map */
